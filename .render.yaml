@@ -1,6 +1,6 @@
 services:
-  - type: worker
-    name: jnvu-result-bot
+  - type: worker   # 🟢 यही जरूरी है
+    name: result
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
