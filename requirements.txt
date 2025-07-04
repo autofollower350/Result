@@ -1,4 +1,0 @@
-selenium
-pyrogram
-tgcrypto
-nest_asyncio
